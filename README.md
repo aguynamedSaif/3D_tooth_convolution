@@ -12,5 +12,6 @@ By employing transfer learning, we aim to enhance the accuracy and efficiency of
 
 Throughout this research work, we meticulously fine-tuned the pre-trained model, experimented with various transfer learning techniques, and validated the performance of our dental crown synthesis model using dental-specific evaluation metrics. The results obtained from this transfer learning approach provide valuable insights into the potential of leveraging existing medical imaging knowledge for dental restorative applications.
 
-The link for this paper is given here
+The link for this paper is given here: 
+https://doi.org/10.1038/s41598-023-28442-1
  
